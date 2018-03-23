@@ -1,2 +1,2 @@
-# Lab2_HelloLaunchPad
-Staring working with TivaC launchpad
+# HelloLaunchPad
+Testing TivaC launchpad and ensuring it's working
